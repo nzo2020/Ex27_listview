@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         return false;
     }
 
+
     public void next(View view) {
         String firstTermSt = firstTermEt.getText().toString();
         String ratioOrDiffSt = ratioOrDifference.getText().toString();
